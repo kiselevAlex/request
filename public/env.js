@@ -1,0 +1,1 @@
+var _RUNTIME_ENV_ = {"TEST":"VALUE_TEST"}
